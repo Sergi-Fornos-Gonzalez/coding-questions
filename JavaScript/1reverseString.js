@@ -1,7 +1,7 @@
 //1. - reverse a string
 var str = "xoriso"
 var result = ""
-
+//creat per sergi
 //method 1
 for (var i = str.length-1; i >= 0; i--){
     result += str.charAt(i)
